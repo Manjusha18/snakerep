@@ -1,0 +1,27 @@
+body{
+    background-color: greenyellow;
+
+} 
+h1{      
+ background-color: #0756e5;
+ color: #fafafa;
+ font: 200px;
+  font-style: italic;
+  border-block-start-color: unset;
+ margin-bottom: 10px;
+ border-end-end-radius: 2333;
+ border-style: solid;
+ border-block-end-color: green;
+ border-width: thick;
+ border-block-end-style: inheit;
+ border-block-end-style: revert;
+ border-bottom-style: dashed;
+ border-bottom-color: orangered;
+ border-end-start-radius: 15px;
+ border-top-color: #ff3a00;
+ background-size: contain;
+ border-image: blue;
+ }
+h2{
+    background-color: rgb(212, 37, 189);
+}
