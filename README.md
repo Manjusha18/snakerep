@@ -1,0 +1,33 @@
+<html>
+
+<head>
+       
+
+<link rel="stylesheet" type="text/css" href="gameIns.css">
+<div><h1 align="center">SNAKE GAME <br> INSTRUCTIONS </br>  </h1>
+
+<p><h3>1.Snake is a single player game where the player is supposed to control the snake.The obstacles include a walls.</h3></p>
+<p><h3> 2.If the snake eats the fruit,its score will be incremented and the fruits are added to the back of snake and snake is increases</h3></p>
+<p><h3> 3.The snake is supposed to eat the fruit which will increment its score. If the snake collides with the walls the game will immediately end and displays the game over.</h3></p>
+<p> <h3>4.The possible directions in which the snake can move are left,right,up and down. all the motion functionality of the snake is controlled by the keyboard arrows keys. </h3></p>
+<p> <h3>5.The game level automatically switches to the next when the score of the snake exceeds a particular score limit.</h3></p>
+<p> <h3>6. the score is displayed on the top right corner</h3></p>
+<p><h3>    lets see the sample image of the game </h3></p>
+
+<img src="https://user-images.githubusercontent.com/2433219/94984424-044e0a80-0509-11eb-903a-c114d5b6f061.png" width="200" height="200">
+<p> <h2> CLICK THE BELOW BUTTON TO PLAY THE GAME </h2></p>
+
+</head>
+
+<body>
+<button type="button" class="btn btn-secondary">SNAKE GAME</button>
+<P><H3>START THE GAME</H3></P>
+
+
+<P><H2> CLICK THE BELOW BUTTON TO GOOGLE</H2></P>
+<button type="button" class="btn btn-success" > <a href="https://www.google.com/">GOOGLE</a></button>
+<P> <H2> CLICK THE BELOW BUTTON TO MORE GAMES</H2></P>
+<button type="button" class="btn btn-GAMES"> <a href="https://www.gamesgames.com/"> MORE GAMES</a></button>
+</body>
+
+</html>
